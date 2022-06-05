@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455112909663",
+    "project_id": "bwctest-fa561",
+    "storage_bucket": "bwctest-fa561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455112909663:android:4bf6c892a7acaedd5f4cea",
+        "android_client_info": {
+          "package_name": "com.daput.bwctest.bwc_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455112909663-b3qkl7hp9q4r9pfi3osnd2ao2m25gjeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXrsgfrwpc401W2U2Hxq6uW1Ovf2fBVMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455112909663-b3qkl7hp9q4r9pfi3osnd2ao2m25gjeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
